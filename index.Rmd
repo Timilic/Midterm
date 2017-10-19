@@ -1,10 +1,13 @@
-#7:00 Section 
+---
+title: "7:00 Section"
+output: html_document
+---
 
-##Aleksa Timilic 
-
-##October 15, 2017 
-
-Here is some arithmetics: 
-  x<-8 y<-10 x^2/y 
-  
-## [1] 6.4
+####Aleksa Timilic
+####October 15,2017
+Here is some arithmetic:
+```{r}
+x<-8
+y<-10
+x^2/y
+```
